@@ -22,7 +22,7 @@
     "eslint": "~8.3.0",
     "html-webpack-plugin": "~5.5.0",
     "node-sass": "6.0.1",
-    "postcss": "7.0.32",
+    "postcss": "8.4.31",
     "postcss-loader": "~4.0.1",
     "react-dom": "~16.13.1",
     "react": "~16.13.1",
